@@ -1,0 +1,14 @@
+DO WHATEVER THE HELL YOU WANT WITH IT PUBLIC LICENSE
+Version 1, March 2015
+
+Copyright (C) 2015 Selvin <s3lvin@github.io>
+
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
+
+DO WHATEVER THE HELL YOU WANT WITH IT PUBLIC LICENSE
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+0. You just DO WHATEVER THE HELL YOU WANT WITH IT.
+1. If it doesn’t work - Most likely it won’t - DON’T bloody blame us.
